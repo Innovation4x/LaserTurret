@@ -16,7 +16,7 @@
 * move your palm
 
 > **Note**
-> Install the latest python libraries
+> Install the latest python libraries,
 > Edit the COM Port in the activate.py file according to the COM Port used by PICO
 
 
