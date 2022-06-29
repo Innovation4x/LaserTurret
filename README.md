@@ -22,5 +22,11 @@
 * Edit the COM Port in the activate.py file according to the COM Port used by PICO
 
 
+## Project details
+
+https://www.hackster.io/innovation4x/laser-turret-using-human-hand-tracking-ai-7459a2
 
 
+## Youtube
+
+https://youtu.be/WHELlpLrP7k
